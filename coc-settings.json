@@ -1,0 +1,7 @@
+{
+   "explorer.icon.enableNerdfont": true,
+   "coc.source.OmniSharp.enable" : true,
+   "python.linting.enabled": true,
+   "rpc.checkIdle": false,
+   "rpc.showProblems": false
+}
